@@ -1,0 +1,9 @@
+Hi, my name is Asoh Yannick, and I am the developer and creator of this massive e-commerce web application built using the PERN stack: PostgreSQL, Express.js, React, and Node.js.
+
+This project has been purposefully developed to grow my career as a software engineer and to help fellow developers around the world who love to build highly secure, robust, and scalable web applications with the PERN stack.
+
+On the frontend, React.js has been used to build highly functional and seamless components that are utilized across the entire web application, ensuring a great user interface (UI) and user experience (UX).
+
+Redux Toolkit is implemented for easy state management across the application, and Axios is used as an external HTTP library to fetch data from my Express backend API.
+
+On the backend, PostgreSQL serves as a feature-rich and secure relational database management system to store and organize our data. Express.js is used to build APIs and microservices for our frontend React application, while Node.js core APIs and modules have been greatly utilized to develop a secure and robust backend web server
